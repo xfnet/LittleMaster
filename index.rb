@@ -7,8 +7,8 @@ for file in files
 
 	File.open(file)  do | text |
 		text.each_line{ |line|
-			if line.include?"title: "
-				lists[file.delete("Contents/")] = line.chomp.delete("title: ")
+			if line.include?"\#"
+				lists[file.delete("Contents/")] = line.chomp.delete("\#")
 				break
 			end
 		}
