@@ -14,4 +14,5 @@
 1. [失恋的并发症](https://github.com/Artwalk/LittleMaster/blob/master/Contents/08.md)
 1. [以及如何应对](https://github.com/Artwalk/LittleMaster/blob/master/Contents/09.md)
 1. [番外-闲扯](https://github.com/Artwalk/LittleMaster/blob/master/Contents/10.md)
-1. [清明梦-1](https://github.com/Artwalk/LittleMaster/blob/master/Contents/11.md)
+1. [揭开人类心灵的奥秘](https://github.com/Artwalk/LittleMaster/blob/master/Contents/11.md)
+1. [达芬奇睡眠](https://github.com/Artwalk/LittleMaster/blob/master/Contents/12.md)
