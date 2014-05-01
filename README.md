@@ -1,6 +1,7 @@
 #LittleMaster
 
-从前有个小法师
+小法师系列
+每个程序员上辈纸都是法力无边的巫师
 
 ---
 
@@ -16,3 +17,4 @@
 1. [番外-闲扯](https://github.com/Artwalk/LittleMaster/blob/master/Contents/10.md)
 1. [揭开人类心灵的奥秘](https://github.com/Artwalk/LittleMaster/blob/master/Contents/11.md)
 1. [达芬奇睡眠](https://github.com/Artwalk/LittleMaster/blob/master/Contents/12.md)
+1. [睡眠瘫痪](https://github.com/Artwalk/LittleMaster/blob/master/Contents/13.md)

@@ -19,7 +19,8 @@ def main
 
 	File.open("README.md", "w") do |file|  
 		file.puts "#LittleMaster\n\n"
-		file.puts "从前有个小法师\n\n"
+		file.puts "小法师系列\n"
+		file.puts "每个程序员上辈纸都是法力无边的巫师\n\n"
 		file.puts "---\n\n"
 
 
