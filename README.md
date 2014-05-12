@@ -1,6 +1,7 @@
 #LittleMaster
 
 小法师系列
+
 每个程序员上辈纸都是法力无边的巫师
 
 ---
@@ -19,3 +20,4 @@
 1. [达芬奇睡眠](https://github.com/Artwalk/LittleMaster/blob/master/Contents/12.md)
 1. [睡眠瘫痪](https://github.com/Artwalk/LittleMaster/blob/master/Contents/13.md)
 1. [清明梦](https://github.com/Artwalk/LittleMaster/blob/master/Contents/14.md)
+1. [直通天堂](https://github.com/Artwalk/LittleMaster/blob/master/Contents/15.md)
