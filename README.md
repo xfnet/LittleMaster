@@ -21,3 +21,4 @@
 1. [睡眠瘫痪](https://github.com/Artwalk/LittleMaster/blob/master/Contents/13.md)
 1. [清明梦](https://github.com/Artwalk/LittleMaster/blob/master/Contents/14.md)
 1. [直通天堂](https://github.com/Artwalk/LittleMaster/blob/master/Contents/15.md)
+1. [意志力与多种交配策略](https://github.com/Artwalk/LittleMaster/blob/master/Contents/16.md)
